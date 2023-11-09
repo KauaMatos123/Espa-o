@@ -3,6 +3,7 @@ body{background-image: url("https://static.preparaenem.com/2022/10/planeta-terra
     object-fit: cover;
     object-position: bottom;
     background-size: 100%;
+    overflow: hidden;
 }
     
 h1{

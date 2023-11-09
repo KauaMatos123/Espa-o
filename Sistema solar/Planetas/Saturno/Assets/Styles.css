@@ -3,6 +3,7 @@ body{background-image: url("https://s5.static.brasilescola.uol.com.br/be/2021/02
     object-fit: cover;
     object-position: bottom;
     background-size: 100%;
+    overflow: hidden;
 }
 
 h1{

@@ -3,6 +3,7 @@ body{background-image: url("https://starwalk.space/gallery/images/mars-the-ultim
     object-fit: cover;
     object-position: bottom;
     background-size: 100%;
+    overflow: hidden;
     }
 
     h1{color: white;

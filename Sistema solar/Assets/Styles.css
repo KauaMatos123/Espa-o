@@ -20,7 +20,7 @@ h1{
 .planetas{
     background-color: rgb(0, 0, 0);
     max-height: 18vh;
-    overflow-y: auto;
+    overflow-y: hidden;
     
 }
   
