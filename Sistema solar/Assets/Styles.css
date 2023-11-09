@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Sistema-solar{
+    background-image: url("https://static.significados.com.br/foto/planetas-do-sistema-solar-1-cke.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 82vh;
+    object-fit: cover;
+    object-position: bottom;
+    background-size: 100%
+}
+
+h1{
+    color: rgb(255, 252, 252);
+    font-size: 40px;
+}
+
+.planetas{
+    background-color: rgb(0, 0, 0);
+    max-height: 18vh;
+    overflow-y: auto;
+    
+}
+  
+.Sol{
+    max-height: 20vh;
+    margin-left: 5px;
+    
+ }
+ 
+ .Mercurio{
+     max-height: 15vh;
+     margin-bottom: 5px;
+     margin-left: 30px;
+ }
+ 
+ .Venus{
+    max-height: 15vh;
+    margin-bottom: 5px;
+    margin-left: 30px;
+ }
+ 
+ .Terra{
+    max-height: 15vh;
+    margin-bottom: 5px;
+    margin-left: 30px;
+ }
+ 
+ .Marte{
+    max-height: 15vh;
+    margin-bottom: 5px;
+    margin-left: 30px;
+ }
+
+ .Jupiter{
+    max-height: 15vh;
+    margin-bottom: 5px;
+    margin-left: 30px;
+ }
+
+ .saturno{
+    max-height: 15vh;
+    margin-bottom: 5px;
+    margin-left: 30px;
+ }
+
+ .urano{
+    max-height: 15vh;
+    margin-bottom: 5px;
+    margin-left: 30px;
+ }
+
+ .netuno{
+    max-height: 15vh;
+    margin-bottom: 5px;
+    margin-left: 30px;
+ }
+
+ .voltar{
+   width: 70px;
+   height: 50px;
+
+ }

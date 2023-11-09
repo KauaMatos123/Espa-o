@@ -1,0 +1,23 @@
+body{background-image: url("https://starwalk.space/gallery/images/mars-the-ultimate-guide/1140x641.jpg");
+    width: 100%;
+    object-fit: cover;
+    object-position: bottom;
+    background-size: 100%;
+    }
+
+    h1{color: white;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+
+    p{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        background: rgba(0, 0, 0, 0.589);
+        color: white;
+        font-size: 25px;
+        margin: 15vh;
+        margin-top: 5vh;
+    }

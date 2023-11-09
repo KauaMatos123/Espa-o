@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{background-image: url("https://veja.abril.com.br/wp-content/uploads/2023/11/GettyImages-1359393157.jpg?quality=90&strip=info&w=1280&h=720&crop=1");
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+    object-position: bottom;
+    background-size: 100%;
+    }
+
+    h1{
+        display: flex;
+        color: white;
+        justify-content: center;
+        font-size: 60px;
+    }
+
+    p{
+        background: rgba(0, 0, 0, 0.808);
+        display: flex;
+        color: white;
+     text-align: center;
+     justify-content: center;
+     margin: 5vh;
+     font-size: 25px;
+     margin-left: 80px;
+margin-right: 80px;
+    }
+
+.Voltar{
+        width: 80px;
+        height: 50px;
+}

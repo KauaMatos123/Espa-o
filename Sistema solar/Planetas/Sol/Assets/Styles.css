@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{background-image: url("https://segredosdomundo.r7.com/wp-content/uploads/2018/11/porque-o-sol-e-tao-importante-para-a-vida-na-terra-4.jpg.webp");
+width: 100%;
+height: 30vh;
+object-fit: cover;
+object-position: bottom;
+background-size: 100%;
+}
+
+h1{
+    display: flex;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-size: 60px;
+}
+
+.botao{
+    position:fixed;
+display: flex;
+text-align:right;
+justify-content: right;
+
+}
+
+.btn{
+    margin-right: 30px;
+    height: 50px;
+    width: 50px;
+}
+
+.texto{
+     color: white;
+    background:rgba(0, 0, 0, 0.589) ;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 12vh;
+
+}
