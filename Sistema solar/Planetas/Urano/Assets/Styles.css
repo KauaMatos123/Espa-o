@@ -25,3 +25,9 @@ p{
     margin: 15vh;
     margin-top: 5px;
 }
+
+input{
+    height: 40px;
+   width: 70px;
+   border-radius: 100vh;
+}

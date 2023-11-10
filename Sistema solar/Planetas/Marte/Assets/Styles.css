@@ -1,4 +1,4 @@
-body{background-image: url("https://starwalk.space/gallery/images/mars-the-ultimate-guide/1140x641.jpg");
+body{background-image: url("https://s2.static.brasilescola.uol.com.br/img/2019/04/marte(1).jpg");
     width: 100%;
     object-fit: cover;
     object-position: bottom;
@@ -21,4 +21,10 @@ body{background-image: url("https://starwalk.space/gallery/images/mars-the-ultim
         font-size: 25px;
         margin: 15vh;
         margin-top: 5vh;
+    }
+
+    input{
+        height: 40px;
+       width: 70px;
+       border-radius: 100vh;
     }

@@ -82,5 +82,5 @@ h1{
  .voltar{
    width: 70px;
    height: 50px;
-
+   border-radius: 100vh;
  }

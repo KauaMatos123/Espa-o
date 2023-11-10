@@ -1,4 +1,4 @@
-body{background-image: url("https://s5.static.brasilescola.uol.com.br/be/2021/02/saturno.jpg");
+body{background-image: url("https://s2.static.brasilescola.uol.com.br/img/2019/04/saturno(2).jpg");
     width: 100%;
     object-fit: cover;
     object-position: bottom;
@@ -22,4 +22,10 @@ p{
     font-size: 25px;
     margin: 15vh;
     margin-top: 5vh;
+}
+
+input{
+    height: 40px;
+   width: 70px;
+   border-radius: 100vh;
 }

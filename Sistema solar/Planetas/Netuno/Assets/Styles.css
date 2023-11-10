@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://s4.static.brasilescola.uol.com.br/be/2022/08/1-planeta-netuno.jpg");
+    background-image: url("https://s4.static.brasilescola.uol.com.br/img/2019/04/netuno(1).jpg");
     width: 100%;
     height: 30vh;
     object-fit: cover;
@@ -25,4 +25,10 @@ p{
     font-size: 25px;
     margin: 15vh;
     margin-top: 5px;
+}
+
+input{
+    height: 40px;
+   width: 70px;
+   border-radius: 100vh;
 }

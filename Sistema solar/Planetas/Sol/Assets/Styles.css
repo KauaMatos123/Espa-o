@@ -27,10 +27,10 @@ justify-content: right;
 
 }
 
-.btn{
-    margin-right: 30px;
-    height: 50px;
-    width: 50px;
+input{
+    height: 40px;
+   width: 70px;
+   border-radius: 100vh;
 }
 
 .texto{
